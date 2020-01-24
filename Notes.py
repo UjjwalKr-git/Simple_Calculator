@@ -14,19 +14,18 @@ def Notes():
     print("*                                           NOTES : -                                             *")
     print("* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *")
     print("*  1. Operators can only be one of the Following : -                                              *")
-    print("*        Addition           =>  \" + \"          Multiplication     =>  \" * \"                       *")
-    print("*        Substraction       =>  \" - \"          Division           =>  \" / \"                       *")
-    print(
-        "*        Power or Exponent  =>  \" ^ \"    [\"First Input\" to the Power \"Second Input\"]              *")
+    print("*       Addition           =>  \" + \"          Multiplication     =>  \" * \"                        *")
+    print("*       Substraction       =>  \" - \"          Division           =>  \" / \"                        *")
+    print("*       Power or Exponent  =>  \" ^ \"    [\"First Input\" to the Power \"Second Input\"]               *")
+    print("*       Factorial          =>  \" ! \"                                                              *")
+    print("*       Permutations and Combinations : -                                                         *")
+    print("*         [ nPr => First Input \" P \" Second Input ]  [ nCr => First Input \" C \" Second Input ]    *")
     print("*                                                                                                 *")
     print("*  2. To Access these NOTES any time, Enter 'N' in the \"First Input\" : -                          *")
-    print(
-        "*       First Input        : 'N' or 'n'    [Also to \"Clear The Screen\"]                           *")
+    print("*       First Input        : 'N' or 'n'    [Also to \"Clear The Screen\"]                           *")
     print("*                                                                                                 *")
     print("*  3. To EXIT Enter \"0\" in all the THREE Inputs : -                                               *")
-    print("*       First Input        : 0                                                                    *")
-    print("*       Input The Operator : 0                                                                    *")
-    print("*       Second Input       : 0                                                                    *")
+    print("*       First Input        : 0        Input The Operator : 0        Second Input       : 0        *")
     print("* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *")
 
 
@@ -39,4 +38,3 @@ def Foot_Notes():
     print("*                                         .Thank You.                                             *")
     print("*                                .Press \"ENTER\" Key to Exit.                                      *")
     print("* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *")
-    # print("___________________________________________________________________________________________________")
